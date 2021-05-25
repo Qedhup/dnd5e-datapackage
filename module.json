@@ -1,0 +1,14 @@
+{
+  "name": "dnd5e-datapackage",
+  "title": "D&D5e Data Package",
+  "description": "A collection of copyright content for D&D 5e",
+  "version": "0.0.1",
+  "author": "Qedhup",
+  "scripts": [],
+  "packs": [],
+  "minimumCoreVersion": "0.7.2",
+  "compatibleCoreVersion": "0.7.9",
+  "url": "https://gitlab.com/tposney/about-time",
+  "manifest": "https://gitlab.com/tposney/about-time/raw/master/package/module.json",
+  "download": "https://gitlab.com/tposney/about-time/raw/master/package/about-time-v0.1.67.zip"
+}
