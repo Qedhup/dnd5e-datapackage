@@ -8,7 +8,7 @@
   "packs": [],
   "minimumCoreVersion": "0.7.2",
   "compatibleCoreVersion": "0.7.9",
-  "url": "https://gitlab.com/tposney/about-time",
-  "manifest": "https://gitlab.com/tposney/about-time/raw/master/package/module.json",
-  "download": "https://gitlab.com/tposney/about-time/raw/master/package/about-time-v0.1.67.zip"
+  "url": "https://gitlab.com/Qedhup/dnd5e-datapackage",
+  "manifest": "https://gitlab.com/Qedhup/dnd5e-datapackage/module.json",
+  "download": "https://gitlab.com/Qedhup/dnd5e-datapackage/something.zip"
 }
